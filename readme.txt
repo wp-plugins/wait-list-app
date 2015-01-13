@@ -40,8 +40,8 @@ It's best to use the build in delete function of wordpress. That way all the sto
 
 == Screenshots ==
 
-API from http://waitington.com
-Your setting in admin
+1. API from http://waitington.com
+2. Your setting in admin
 
 == Changelog ==
 
